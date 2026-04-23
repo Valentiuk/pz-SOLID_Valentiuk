@@ -1,0 +1,21 @@
+{
+  "name": "pz-solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+  "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "typescript": "^6.0.3"
+  }
+}
